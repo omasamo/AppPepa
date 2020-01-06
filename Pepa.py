@@ -1,1 +1,1 @@
-ahoj jdoijapiohfoidsoij
+print("Hello World");
